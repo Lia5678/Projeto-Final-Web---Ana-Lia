@@ -7,3 +7,6 @@ Por fim, também planejei inserir uma imagem no footer, mas como estava causando
 No menu, eu gostaria de ter adicionado mais itens, pois achei a parte direita muito vazia. No entanto, quanto mais elementos eu tentava inserir, mais erros surgiam, o que acabou me impedindo de expandir essa seção.
 Achei o projeto bastante desafiador e, ao longo do desenvolvimento, passei por momentos de frustração. Em várias ocasiões, precisei apagar e refazer partes do trabalho, e mesmo assim não consegui deixá-lo "perfeito" como havia imaginado. Ainda assim, gostei muito da experiência, pois esse projeto e essa materia me inspirou bastante e reforçou meu interesse em seguir uma carreira na área no futuro.
 
+OBS: Criei o projeto todo pelo index.html, mias nesse arquivo está o html, css e javascript juntos.
+
+
